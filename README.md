@@ -1,0 +1,1 @@
+I like [vscode One Monokai theme](https://marketplace.visualstudio.com/items?itemName=azemoh.one-monokai), but unfortunately it is not yet availale on Jetbrains plugin market.So I maked this theme for learning.
