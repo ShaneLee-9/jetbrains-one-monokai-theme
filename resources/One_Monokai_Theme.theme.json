@@ -1,0 +1,14 @@
+{
+  "name": "One Monokai Theme",
+  "dark": true,
+  "author": "",
+  "editorScheme": "/One_Monokai_Theme.xml",
+  "colors": {
+    "baseBg": "#2f333d"
+  },
+  "ui": {
+    "*": {
+      "background": "#2f333d"
+    }
+  }
+}
