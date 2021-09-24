@@ -20,6 +20,11 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="DEFAULT_STRING">
+      <value>
+        <option name="FOREGROUND" value="e5c07b" />
+      </value>
+    </option>
     <option name="HTML_ATTRIBUTE_NAME">
       <value>
         <option name="FOREGROUND" value="98c379" />
@@ -66,9 +71,14 @@
         <option name="FOREGROUND" value="e06c75" />
       </value>
     </option>
-    <option name="DEFAULT_STRING">
+    <option name="DEFAULT_COMMA">
       <value>
-        <option name="FOREGROUND" value="e5c07b" />
+        <option name="FOREGROUND" value="abb2bf" />
+      </value>
+    </option>
+    <option name="DEFAULT_SEMICOLON">
+      <value>
+        <option name="FOREGROUND" value="abb2bf" />
       </value>
     </option>
   </attributes>
